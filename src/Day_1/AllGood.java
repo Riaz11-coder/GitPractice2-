@@ -9,6 +9,6 @@ public class AllGood {
         
         System.out.println("This is the first code I'm writing from Github");
         
-        Sytem.out.println("This is a very cool feature");
+        System.out.println("This is a very cool feature");
     }
 }
