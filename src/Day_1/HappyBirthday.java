@@ -7,6 +7,8 @@ public class HappyBirthday {
         System.out.println("Happy Birthday");
         
         System.out.println("Thank You");
+        
+        System.out.println("Wish you many more");
 
     }
 }
